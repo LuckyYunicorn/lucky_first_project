@@ -11,7 +11,13 @@ class _SignupScreenState extends State<SignupScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("data"),
+      body: Column(
+        children: [
+          Text("data"),
+          Text("data"),
+          Text("data"),
+        ],
+      ),
     );
   }
 }

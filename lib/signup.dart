@@ -16,6 +16,10 @@ class _SignupScreenState extends State<SignupScreen> {
           Text("data"),
           Text("data"),
           Text("data"),
+          Text("data"),
+          Text("data"),
+          Text("data"),Text("data"),
+
         ],
       ),
     );
